@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/azure-blob-upload-api-d01e1513/fastapi_backend"
+}
